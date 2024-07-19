@@ -1,0 +1,10 @@
+-h, --help                  :   Help
+-u, --username              :   EazyML username
+-p, --api_key               :   EazyML api_key. User can download it from UI (MyAccount->API)
+-x, --prefix_name           :   Prefix to be used while saving response.
+-g, --config_file           :   Configurations file to override the default EazyML configurations.
+-d, --document_path         :   Absolute path of the document.
+-o, --overwrite             :   A flag that indicates whether to overwrite the stored specified document.
+-e, --extract_information   :   To run extract_information API.
+-i, --index_name            :   New or pre-existing index_name to save the document.
+-q, --query                 :   Query to be queried in the indexed embeddings.
